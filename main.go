@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./route"
+	"github.com/fujiirikiya/simple-crud/route"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"../model"
+	"github.com/fujiirikiya/simple-crud/model"
 )
 
 type Person struct {

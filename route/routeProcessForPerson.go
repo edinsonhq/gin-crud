@@ -3,7 +3,7 @@ package route
 import (
 	"strconv"
 
-	"../controller"
+	"github.com/fujiirikiya/simple-crud/controller"
 	"github.com/gin-gonic/gin"
 )
 
