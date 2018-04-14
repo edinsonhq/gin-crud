@@ -13,4 +13,4 @@
 `$ go build -o app`
 
 #### run  
-`$ run`
+`$ ./app`
